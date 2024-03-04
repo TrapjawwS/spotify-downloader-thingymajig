@@ -1,4 +1,3 @@
-import { saveAs } from 'file-saver';
 var music = prompt("Please enter a spotify link for a song, album, playlist, or artist. ");
 
 const { exec } = require('child_process');
